@@ -35,12 +35,11 @@ int main()
 
     std::cout << "Inkrementacja, dekrementacja" << std::endl;
     std::cout << "Ulamek przez inkrementacją " << f1 << std::endl;
-    // blad f1++;
+    //blad f1++;
     std::cout << "Ulamek po inkrementacji " << f1 << std::endl; 
     std::cout << "Ulamek przez dekrementacją " << f1 << std::endl;
-    // blad f1--;
+    //blad f1--;
     std::cout << "Ulamek po dekrementacji " << f1 << std::endl; 
-    
 
     return 0;
 }
